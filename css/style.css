@@ -397,3 +397,8 @@ img {
   opacity: 1;
   visibility: visible;
 }
+
+.Devbranch {
+  font-size: 26px;
+  color: #fff;
+}
